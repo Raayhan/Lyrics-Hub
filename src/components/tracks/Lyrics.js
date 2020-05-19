@@ -61,6 +61,7 @@ import Moment from 'react-moment'
                            <li className="list-group-item">
                             <strong>Release Date</strong>: <Moment format="DD/MM/YYYY">{track.updated_time}</Moment>
                            </li>
+                           
                     </ul>
                  </React.Fragment>
              );

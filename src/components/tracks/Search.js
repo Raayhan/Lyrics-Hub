@@ -34,9 +34,9 @@ import { Consumer } from '../../context'
                    return (
                        
                       <div className="card card-body mb-4 p4">
-                          <h1 className="text-center">
+                          <h2 className="text-center">
                               <i className="fas fa-music"></i> Search For A Song
-                          </h1>
+                          </h2>
                           <p className="lead text-center"> Get the lyrics for any song</p>
                           <form onSubmit={this.findTrack.bind(this ,dispatch)}>
                               <div className="form-group">
@@ -45,7 +45,7 @@ import { Consumer } from '../../context'
                                   value={this.state.trackTitle} onChange={this.onChange}/>
                               </div>
                               <button className="btn btn-dark purple-gradient btn-lg btn-block mb-5" type="submit">
-                              <i class="fas fa-search"></i> Get Track Lyrics
+                              <i className="fas fa-search"></i> Get Track Lyrics
                               </button>
                           </form>
                       </div> 
