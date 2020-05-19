@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 
 
 body {
     font-family: 'Alata', sans-serif;
 }
+.btn {
+    text-transform: unset !important;
+    font-family: 'Bree Serif', serif;
+    
+  }
