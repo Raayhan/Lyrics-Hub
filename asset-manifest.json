@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.2ad6ff50.chunk.css",
-    "main.js": "/static/js/main.d55d8415.chunk.js",
-    "main.js.map": "/static/js/main.d55d8415.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8c87115c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8c87115c.js.map",
-    "static/css/2.305b15ea.chunk.css": "/static/css/2.305b15ea.chunk.css",
-    "static/js/2.e41da8e6.chunk.js": "/static/js/2.e41da8e6.chunk.js",
-    "static/js/2.e41da8e6.chunk.js.map": "/static/js/2.e41da8e6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f3fab8c3a8e3709eef70a2eb4c8c280d.js": "/precache-manifest.f3fab8c3a8e3709eef70a2eb4c8c280d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.305b15ea.chunk.css.map": "/static/css/2.305b15ea.chunk.css.map",
-    "static/css/main.2ad6ff50.chunk.css.map": "/static/css/main.2ad6ff50.chunk.css.map",
-    "static/js/2.e41da8e6.chunk.js.LICENSE.txt": "/static/js/2.e41da8e6.chunk.js.LICENSE.txt",
-    "static/media/mdb.css": "/static/media/arrow_right.8ef6a08c.svg"
+    "main.css": "/Lyrics-Hub/static/css/main.2ad6ff50.chunk.css",
+    "main.js": "/Lyrics-Hub/static/js/main.33c112cb.chunk.js",
+    "main.js.map": "/Lyrics-Hub/static/js/main.33c112cb.chunk.js.map",
+    "runtime-main.js": "/Lyrics-Hub/static/js/runtime-main.b36fbc50.js",
+    "runtime-main.js.map": "/Lyrics-Hub/static/js/runtime-main.b36fbc50.js.map",
+    "static/css/2.1bb2dc49.chunk.css": "/Lyrics-Hub/static/css/2.1bb2dc49.chunk.css",
+    "static/js/2.e41da8e6.chunk.js": "/Lyrics-Hub/static/js/2.e41da8e6.chunk.js",
+    "static/js/2.e41da8e6.chunk.js.map": "/Lyrics-Hub/static/js/2.e41da8e6.chunk.js.map",
+    "index.html": "/Lyrics-Hub/index.html",
+    "precache-manifest.075ca7099d5290b699d39d6814e2d101.js": "/Lyrics-Hub/precache-manifest.075ca7099d5290b699d39d6814e2d101.js",
+    "service-worker.js": "/Lyrics-Hub/service-worker.js",
+    "static/css/2.1bb2dc49.chunk.css.map": "/Lyrics-Hub/static/css/2.1bb2dc49.chunk.css.map",
+    "static/css/main.2ad6ff50.chunk.css.map": "/Lyrics-Hub/static/css/main.2ad6ff50.chunk.css.map",
+    "static/js/2.e41da8e6.chunk.js.LICENSE.txt": "/Lyrics-Hub/static/js/2.e41da8e6.chunk.js.LICENSE.txt",
+    "static/media/mdb.css": "/Lyrics-Hub/static/media/arrow_right.8ef6a08c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c87115c.js",
-    "static/css/2.305b15ea.chunk.css",
+    "static/js/runtime-main.b36fbc50.js",
+    "static/css/2.1bb2dc49.chunk.css",
     "static/js/2.e41da8e6.chunk.js",
     "static/css/main.2ad6ff50.chunk.css",
-    "static/js/main.d55d8415.chunk.js"
+    "static/js/main.33c112cb.chunk.js"
   ]
 }
