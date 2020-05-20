@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <Provider>
-        <Router basename="/">
+        <Router basename="/Lyrics-Hub">
             <React.Fragment>
               <Navbar />
               
