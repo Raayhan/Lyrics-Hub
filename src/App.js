@@ -20,7 +20,7 @@ function App() {
                 
                 <Switch>
                 
-                  <Route exact path="/Lyrics-Hub" component={Index} />
+                  <Route exact path="/" component={Index} />
                   <Route exact path="/lyrics/track/:id" component={Lyrics} />
                 </Switch>
               </div>
