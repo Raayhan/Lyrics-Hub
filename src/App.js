@@ -12,7 +12,7 @@ import './App.css';
 function App() {
   return (
     <Provider>
-        <Router basename={`${process.env.PUBLIC_URL}/`}>
+        <Router basename="/">
             <React.Fragment>
               <Navbar />
               
