@@ -22,4 +22,20 @@ body {
     color:#1c2a48;
   }
 
-  
+  .end{
+    font-size: 10px;
+  }
+  .quote{
+    font-family: 'Bree Serif', serif;
+    color:#1c2a48;
+    font-size: 18px;
+  }
+  .cover{
+    
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.89), rgba(1, 70, 102, 0.637)),url("https://i.ibb.co/YbjJsQc/cover.jpg");
+    background-repeat:no-repeat;
+    background-size: cover;
+  }
+  .track{
+    background-color:rgba(0, 150, 136, 0.1) ;
+  }

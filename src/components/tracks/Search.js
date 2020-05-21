@@ -33,11 +33,15 @@ import { Consumer } from '../../context'
                     const { dispatch } = value;
                    return (
                    
-                      <div className="card card-body mb-4 p4">
+                    <div className="card card-image mb-4 cover">
+
+                    
+                        
+                      <div className="card-body mb-4 p4">
                           <h2 className="text-center">
                               <i className="fas fa-music"></i> Search For A Song
                           </h2>
-                          <p className="lead text-center"> Get the lyrics for any song</p>
+                          <p className="lead text-center quote"> Get the lyrics for any song</p>
                           <form onSubmit={this.findTrack.bind(this ,dispatch)}>
                               <div className="form-group">
                                   <input type="text" className="form-control form-control-lg" 
@@ -49,6 +53,7 @@ import { Consumer } from '../../context'
                               </button>
                           </form>
                       </div> 
+                      </div>
                    );
                 }}
             </Consumer>

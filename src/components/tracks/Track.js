@@ -5,7 +5,7 @@ const Track = (props) =>{
     const { track } =props;
     return (
         <div className="col-md-6">
-            <div className="card mb-4 shadow-sm">
+            <div className="card mb-4 shadow-sm track">
                 <div className="card-body">
                    <h5>{ track.track_name }</h5>
                    <p className="card-text">
