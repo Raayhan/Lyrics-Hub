@@ -39,3 +39,8 @@ body {
   .track{
     background-color:rgba(0, 150, 136, 0.1) ;
   }
+  .lyric{
+    font-family: 'Bree Serif', serif;
+    color:black;
+    background-color:rgba(0, 150, 136, 0.1) ;
+  }

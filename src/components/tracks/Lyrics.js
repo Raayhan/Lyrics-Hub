@@ -39,10 +39,10 @@ import Moment from 'react-moment'
                  <React.Fragment>
                     <Link to="/" className="btn btn-dark mdb-color darken-3 mb-4"><i class="fas fa-angle-left"></i> Back</Link>
                     <div className="card">
-                        <h5 className="card-header">
+                        <h5 className="card-header pb-4">
                             {track.track_name} by <span className="text-secondary">{track.artist_name}</span>
                         </h5>
-                        <div className="card-body">
+                        <div className="card-body lyric">
                                {lyrics.lyrics_body.split("\n").map(lyric => {
                                                   return <p className="card-text">{lyric}</p>
                                             })}
