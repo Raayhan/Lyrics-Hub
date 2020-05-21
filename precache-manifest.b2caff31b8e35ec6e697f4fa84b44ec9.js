@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4677d8eb0865a0fe34bac049a9c2c385",
+    "revision": "5b6a872a57cd7a9f18ac50b0ad70a8dc",
     "url": "/Lyrics-Hub/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lyrics-Hub/static/css/2.1bb2dc49.chunk.css"
   },
   {
-    "revision": "a35efdde86b042402f26",
-    "url": "/Lyrics-Hub/static/css/main.2ad6ff50.chunk.css"
+    "revision": "df60353c7a5352c31d05",
+    "url": "/Lyrics-Hub/static/css/main.b92009f1.chunk.css"
   },
   {
     "revision": "ded64c4a449739113e18",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Lyrics-Hub/static/js/2.e41da8e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a35efdde86b042402f26",
-    "url": "/Lyrics-Hub/static/js/main.33c112cb.chunk.js"
+    "revision": "df60353c7a5352c31d05",
+    "url": "/Lyrics-Hub/static/js/main.b30f33b5.chunk.js"
   },
   {
     "revision": "d42aba4985f129e9a756",
